@@ -9,7 +9,7 @@ layout: page
 
 MDverse is an international project aiming at indexing, annotating and exploring molecular dynamics simulation data with the ultimate goal of making it **reusable**.
 
-> 💡 Did you know? 
+> 💡 Did you know? <br />
 > **1 %** of all data stored in the data repository [Zenodo](https://zenodo.org/) is related to molecular dynamics simulations? 
 
 ## Achievements
