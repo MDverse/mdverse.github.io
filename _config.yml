@@ -11,7 +11,7 @@ title: "MDverse"
 logo: "/assets/img/logo.png"
 favicons:
   - "/assets/img/logo.png"
-description: "Exploring molecular dynamics data"
+description: "Recycling molecular dynamics data"
 url: "https://mdverse.github.io"
 baseurl: ""
 repo: "https://github.com/mdverse/"

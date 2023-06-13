@@ -2,8 +2,8 @@
 title: MDverse
 feature_text: |
   ## MDverse
-  #### Exploring molecular dynamics data
-feature_image: "/assets/img/background.jpg"
+  #### Recycling molecular dynamics data
+feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
 
