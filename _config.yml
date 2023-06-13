@@ -1,0 +1,30 @@
+#theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic
+
+plugins:
+    - jekyll-remote-theme
+    - jekyll-commonmark
+
+encoding: utf-8
+lang: en-GB
+title: "MDverse"
+logo: "/assets/img/logo.png"
+favicons:
+  - "/assets/img/logo.png"
+description: "Exploring molecular dynamics data"
+url: "https://mdverse.github.io"
+baseurl: ""
+repo: "https://github.com/mdverse/"
+#email: "contact@plasmabio.org"
+
+navigation_header:
+- title: Home
+  url: /
+- title: Achievements
+  url: /#achievements
+- title: Developments
+  url: /#developments
+
+navigation_footer:
+- title: MDverse
+  url: https://mdverse.github.io
