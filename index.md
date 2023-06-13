@@ -3,7 +3,7 @@ title: MDverse
 feature_text: |
   ## MDverse
   #### Exploring molecular dynamics data
-feature_image: "/assets/img/background-2462431_Pixabay.jpg"
+feature_image: "/assets/img/background.jpg"
 layout: page
 ---
 
