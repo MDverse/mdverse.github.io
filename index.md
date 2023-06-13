@@ -14,7 +14,7 @@ MDverse is an international project aiming at indexing, annotating and exploring
 
 [Data collection](https://zenodo.org/record/7856806): about 250,000 files and 2,000 datasets have been indexed so far. All data are shared as Parquet files in Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-[MDverse data explorer] is a prototype search engine for molecular dynamics data.
+[MDverse data explorer](https://mdverse.streamlit.app/) is a prototype search engine for molecular dynamics data. Browse collected files and search for specific data using keywords.
 
 Preprint: [MDverse: Shedding Light on the Dark Matter of Molecular Dynamics Simulations](https://www.biorxiv.org/content/10.1101/2023.05.02.538537v1), bioRxiv, 2023. The *dark matter of MD* refers to data that is technically accessible, but neither indexed,
 21 curated, or easily searchable.
