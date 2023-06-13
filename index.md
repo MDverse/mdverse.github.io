@@ -7,13 +7,13 @@ feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
 
-MDverse is an international project aiming at indexing, annotating and exploring molecular dynamics simulation data.
+MDverse is an international project aiming at indexing, annotating and exploring molecular dynamics simulation data with the ultimate goal of making it reusable.
 
 > 💡 Did you know? **1 %** of all data stored in the data repository [Zenodo](https://zenodo.org/) is related to molecular dynamics simulations? 
 
 ## Achievements
 
-[Data collection](https://zenodo.org/record/7856806): about 250,000 files and 2,000 datasets have been indexed so far. All data are shared as Parquet files in Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+[Data collection](https://zenodo.org/record/7856806): about 250,000 files and 2,000 datasets have been indexed so far. All data are shared as Parquet files under Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 [MDverse data explorer](https://mdverse.streamlit.app/) is a prototype search engine for molecular dynamics data. Browse collected files and search for specific data using keywords.
 
