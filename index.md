@@ -7,7 +7,7 @@ feature_image: "/assets/img/background-2462431_Pixabay.jpg"
 layout: page
 ---
 
-MDverse is an international project aiming at indexing, annotating and exploring molecular dynamics simulation data with the ultimate goal of making it reusable.
+MDverse is an international project aiming at indexing, annotating and exploring molecular dynamics simulation data with the ultimate goal of making it **reusable**.
 
 > 💡 Did you know? **1 %** of all data stored in the data repository [Zenodo](https://zenodo.org/) is related to molecular dynamics simulations? 
 
@@ -17,8 +17,9 @@ MDverse is an international project aiming at indexing, annotating and exploring
 
 [MDverse data explorer](https://mdverse.streamlit.app/) is a prototype search engine for molecular dynamics data. Browse collected files and search for specific data using keywords.
 
-Preprint: [MDverse: Shedding Light on the Dark Matter of Molecular Dynamics Simulations](https://www.biorxiv.org/content/10.1101/2023.05.02.538537v1), bioRxiv, 2023. The *dark matter of MD* refers to data that is technically accessible, but neither indexed,
-21 curated, or easily searchable.
+Preprint: [MDverse: Shedding Light on the Dark Matter of Molecular Dynamics Simulations](https://www.biorxiv.org/content/10.1101/2023.05.02.538537v1), bioRxiv, 2023. 
+
+> 📝 The *dark matter of MD* refers to data that is technically accessible, but neither indexed, curated, or easily searchable.
 
 
 ## Developments
