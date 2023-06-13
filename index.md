@@ -20,7 +20,7 @@ MDverse is an international project aiming at indexing, annotating and exploring
 
 Preprint: [MDverse: Shedding Light on the Dark Matter of Molecular Dynamics Simulations](https://www.biorxiv.org/content/10.1101/2023.05.02.538537v1), bioRxiv, 2023. 
 
-> 📝  The *dark matter of MD* refers to data that is technically accessible, but neither indexed, curated, or easily searchable.
+> 📝  The "Dark Matter of Molecular Dynamics Simulations" refers to data that is technically accessible, but neither indexed, curated, or easily searchable.
 
 
 ## Developments
